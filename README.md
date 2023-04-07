@@ -17,21 +17,27 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am a PhD student in Bioinformatics and Computational Biology program in Iowa State University, Ames, IA. I am passionate about promoting sustainable and eco-friendly agriculture from the soil microbial perspective. More specifically, I am interested in improving the detection of soil microbiome functional genes related to important biogeochemical processes, such as nitrogen cycling. 
+### 🌱 Who am I
 
-### Research projects
+I am a PhD student in Bioinformatics and Computational Biology program (with a minor in Statistics) at Iowa State University, Ames, IA. I am interested in promoting sustainable 🌿 and eco-friendly agriculture from the soil microbial 🦠 perspective. More specifically, I am interested in improving the detection of soil microbiome functional genes related to important biogeochemical processes, such as nitrogen cycling. I work part-time at a cancer diagnosing company as a bioinformatics scientist consultant 🧬, where I get the exiciting opportunities to use different machine learning and statistical methods to predict cancer.
 
-- Developed a command line tool (bash & python) that designs high-throughput qPCR primers for environmental specific functional genes of interest
-- Systematically and statistically evaluate microbiome function prediction tool, PICRUSt2
-- Investigate soil microbiome functions with deep learning
+I consider myself as a curious person and passionate & efficient 🚀 learner. I always get excited seeing unknown knowledges and new technologies, and would immediately start to collect resources and learn about them! Other than that, most of the time I am a happy person in life thanks to my great and supportive PI, my wonderful teammates, and best friends and families. So grateful 🧡⭐️!
 
-### Interests
+
+### 🔭 Research projects
+
+- Developed a bioinformatics software (bash & python) that designs high-throughput qPCR primers for environmental specific functional genes of interest. We are working on packing it up to a snakemake 🐍 pipe!
+- Investigating the global and soil-focused diversity of nitrification gene
+- Systematically evaluating a microbiome function prediction tool using different statistical simulations and methods
+- Investigating soil microbiome functions with deep learning
+
+### 😄 Interests
 
 - I enjoy working on and learning statistical analysis and data visualization, programming, and machine learning projects. Always look to collaborate on fun projects!
-- I just started indoor climbing
+- I am an enthusiastic swimmer 🏊 despite I am not quite good at it 😜. just started bouldering 🧗‍♂️ as well!
 
 
-### Contact
+### 📫 Contact
 
 - Email: jialiu232@gmail.com
 
